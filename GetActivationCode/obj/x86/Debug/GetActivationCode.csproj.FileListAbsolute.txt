@@ -1,0 +1,7 @@
+c:\users\kinan\documents\visual studio 2010\Projects\GetActivationCode\GetActivationCode\obj\x86\Debug\GetActivationCode.Form1.resources
+c:\users\kinan\documents\visual studio 2010\Projects\GetActivationCode\GetActivationCode\obj\x86\Debug\GetActivationCode.Properties.Resources.resources
+c:\users\kinan\documents\visual studio 2010\Projects\GetActivationCode\GetActivationCode\obj\x86\Debug\GetActivationCode.csproj.GenerateResource.Cache
+c:\users\kinan\documents\visual studio 2010\Projects\GetActivationCode\GetActivationCode\bin\Debug\GetActivationCode.exe
+c:\users\kinan\documents\visual studio 2010\Projects\GetActivationCode\GetActivationCode\bin\Debug\GetActivationCode.pdb
+c:\users\kinan\documents\visual studio 2010\Projects\GetActivationCode\GetActivationCode\obj\x86\Debug\GetActivationCode.exe
+c:\users\kinan\documents\visual studio 2010\Projects\GetActivationCode\GetActivationCode\obj\x86\Debug\GetActivationCode.pdb
